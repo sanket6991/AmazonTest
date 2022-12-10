@@ -1,0 +1,1 @@
+INFO    2022-11-30 10:04:02,985 [main] Selenium.LoginTestAmazon  - Test 1 Passed
